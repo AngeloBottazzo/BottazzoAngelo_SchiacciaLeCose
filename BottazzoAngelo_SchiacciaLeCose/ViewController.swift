@@ -13,8 +13,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        UIApplication.shared.isNetworkActivityIndicatorVisible = true // per refreshare continuamente lo schermo altrimenti avrei problemi col simulatore
     }
-
-
 }
 
