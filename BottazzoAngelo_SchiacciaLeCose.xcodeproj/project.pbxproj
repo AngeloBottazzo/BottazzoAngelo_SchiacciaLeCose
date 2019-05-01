@@ -15,6 +15,7 @@
 		344651CC22534970002ED234 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 344651CA22534970002ED234 /* LaunchScreen.storyboard */; };
 		344651D722534970002ED234 /* BottazzoAngelo_SchiacciaLeCoseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 344651D622534970002ED234 /* BottazzoAngelo_SchiacciaLeCoseTests.swift */; };
 		344651E222534970002ED234 /* BottazzoAngelo_SchiacciaLeCoseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 344651E122534970002ED234 /* BottazzoAngelo_SchiacciaLeCoseUITests.swift */; };
+		34712A2522783ABE00D25C1F /* Dati.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34712A2422783ABE00D25C1F /* Dati.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		344651DD22534970002ED234 /* BottazzoAngelo_SchiacciaLeCoseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BottazzoAngelo_SchiacciaLeCoseUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		344651E122534970002ED234 /* BottazzoAngelo_SchiacciaLeCoseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BottazzoAngelo_SchiacciaLeCoseUITests.swift; sourceTree = "<group>"; };
 		344651E322534970002ED234 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34712A2422783ABE00D25C1F /* Dati.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dati.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				344651CA22534970002ED234 /* LaunchScreen.storyboard */,
 				344651CD22534970002ED234 /* Info.plist */,
 				3400AA38225C8584001E471B /* ViewController2.swift */,
+				34712A2422783ABE00D25C1F /* Dati.swift */,
 			);
 			path = BottazzoAngelo_SchiacciaLeCose;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				344651C42253496F002ED234 /* ViewController.swift in Sources */,
 				344651C22253496F002ED234 /* AppDelegate.swift in Sources */,
 				3400AA39225C8584001E471B /* ViewController2.swift in Sources */,
+				34712A2522783ABE00D25C1F /* Dati.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
